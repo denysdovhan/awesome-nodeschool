@@ -1,0 +1,38 @@
+{
+  "name": "awesome-nodeschool",
+  "version": "1.0.0",
+  "description": "[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)",
+  "main": "index.js",
+  "dependencies": {
+    "remark-cli": "^2.1.0",
+    "remark": "^6.2.0",
+    "remark-toc": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "toc": "remark --use toc  README.md --output",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denysdovhan/awesome-nodeschool.git"
+  },
+  "keywords": [],
+  "author": "Denys Dovhan <email@denysdovhan.com> (http://denysdovhan.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denysdovhan/awesome-nodeschool/issues"
+  },
+  "homepage": "https://github.com/denysdovhan/awesome-nodeschool#readme",
+  "remarkConfig": {
+    "settings": {
+      "bullet": "*",
+      "listItemIndent": "1"
+    },
+    "plugins": {
+      "toc": {
+        "tight": true
+      }
+    }
+  }
+}
