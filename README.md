@@ -39,7 +39,7 @@ For better understanding of NodeSchool's internal organization, let's take a loo
 
 ### NodeSchool event …
 
-… is usually free (or with little cost), open community event. Anybody can attend to study Node.js in one fashion or another. NodeSchool events can happen outside of a chapter! If there is a free, open event where you can study Node.js you can put it on the list. NodeSchool events have freedom of choice in how to study Node.js together: studying workshoppers, creating workshoppers, using online tutorials, reading Node.js books, having presentations, etc.
+… is usually a free (or with little cost) open community event. Anybody can attend to study Node.js in one fashion or another. NodeSchool events can happen outside of a chapter! If there is a free, open event where you can study Node.js you can put it on the list. NodeSchool events have freedom of choice in how to study Node.js together: studying workshoppers, creating workshoppers, using online tutorials, reading Node.js books, having presentations, etc.
 
 ### NodeSchool Core member …
 
@@ -47,15 +47,15 @@ For better understanding of NodeSchool's internal organization, let's take a loo
 
 ### Chapter …
 
-… is a place where at least one (but preferably more) NodeSchool events happen. Chapters are based on _their geolocation_ (not on any other structure!) and are usually setup for an area that is easy to reach with public transport within approximately 40min. Usually that means one Chapter per city.
+… is a place where at least one (but preferably more) NodeSchool events happen. Chapters are based on _their geolocation_ (not on any other structure!) and are usually setup for an area that is easy to reach with public transport within approximately 40 min. Usually that means one Chapter per city.
 
 ### Chapter organizer …
 
-… is a GitHub organization member that can be talked to when there is a question about a Chapter. Other than that: there is no difference to a Chapter member!
+… is a GitHub organization member that can be talked to when there is a question about a Chapter. Other than that: they are no different than a Chapter member!
 
 ### Chapter member …
 
-… is a GitHub organization member that helps organizing NodeSchool events. A member has access to the chapter’s homepage and can close issues. We expect members to accept other, willing volunteers with open arms into their chapter and ask for help if they need something.
+… is a GitHub organization member that helps with organizing NodeSchool events. A member has access to the chapter’s homepage and can close issues. We expect members to accept other willing volunteers with open arms into their chapter and ask for help if they need something.
 
 ### Workshopper …
 
